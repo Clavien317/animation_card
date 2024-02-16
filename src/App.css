@@ -1,0 +1,14 @@
+body
+{
+    text-align: center;
+}
+
+.card
+{
+    background-color: rgb(13, 54, 26);
+    width: 40%;
+    height: 22vw;
+    color: white;
+    padding: 1vw;
+    margin-left: 30%;
+}
